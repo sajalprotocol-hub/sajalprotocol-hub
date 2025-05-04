@@ -1,4 +1,4 @@
-![Banner](https://github.com/sajalprotocol-hub/sajalprotocol-hub/blob/main/github-banner.png
+![Banner](https://github.com/sajalprotocol-hub/sajalprotocol-hub/blob/main/github-banner.png)
 )
 
 # 👋 Hi there, I'm Sajal Srivastava!
