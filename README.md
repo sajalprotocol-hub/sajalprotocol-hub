@@ -1,61 +1,82 @@
-![Banner](https://github.com/sajalprotocol-hub/sajalprotocol-hub/blob/main/github-banner.png)
-)
+<h1 align="center">Hi 👋, I'm Sajal Srivastava</h1>
+<h3 align="center">A passionate Data Analyst & SEO Executive from India</h3>
 
-# 👋 Hi there, I'm Sajal Srivastava!
-
-🎓 AI & ML Student at Lovely Professional University  
-💻 Web Developer | 🧠 Problem Solver | 🚀 Tech Enthusiast  
-🏆 National AI Project Finalist | 🥇 Best Team Player @ Noqs Digital  
-🌱 Passionate about innovation, clean code, and lifelong learning.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sajalprotocol-hub&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
 
 ---
 
-## 💼 Technical Skills
+## 🚀 About Me
+- 🔭 I’m currently working on **Data Analytics & SEO Projects**
+- 🌱 I’m currently learning **Advanced SQL & Python**
+- 💬 Ask me about **Data Analysis, SEO, Dashboards**
+- 📫 How to reach me: **your-email@gmail.com**
+- ⚡ Fun fact: **I love solving problems with data**
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+---
+
+## 🌐 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/your-link" target="blank">
+<img src="https://img.icons8.com/color/48/linkedin.png"/>
+</a>
+<a href="https://instagram.com/your-id" target="blank">
+<img src="https://img.icons8.com/color/48/instagram-new.png"/>
+</a>
+<a href="https://youtube.com/@your-channel" target="blank">
+<img src="https://img.icons8.com/color/48/youtube-play.png"/>
+</a>
+</p>
+
+---
+
+## 🛠 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sql,excel,powerbi,tableau,git,github,html,css,js,figma" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sajalprotocol-hub&show_icons=true&theme=radical" />
+</p>
 
-![Sajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajalsrivastava&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajalsrivastava&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=sajalsrivastava&theme=radical)](https://git.io/streak-stats)
-
----
-
-## 🚀 Projects
-
-Here are some projects I'm proud of:
-
-- 🧠 **AI-Powered Marketing Campaign Optimizer** – Predictive analytics for ROI and customer segmentation  
-- 🛍️ **E-Commerce Website** – Clean UI, responsive design, built with PHP and MySQL  
-- 🌍 **Tourism Website** – SEO-focused, custom-built WordPress theme
-
-Feel free to check them out in my pinned repositories!
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajalprotocol-hub&theme=radical" />
+</p>
 
 ---
 
-## 🔗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)  
-[![Portfolio](https://img.shields.io/badge/-My_Portfolio-000?style=flat&logo=github&logoColor=white)](https://yourportfolio.com)  
-📫 **Email**: sajalsrivastava@example.com  
-🌐 **Website**: [Coming Soon!]
+## 📈 My GitHub Contributions
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajalprotocol-hub&theme=react-dark" />
+</p>
 
 ---
 
-## 👀 Visitors Count
-
-![](https://komarev.com/ghpvc/?username=sajalsrivastava&color=blue&style=flat)
+## 🏆 Contribution Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sajalprotocol-hub&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+## 🗓️ Contribution Calendar
+<p align="center">
+  <img src="https://ghchart.rshah.org/sajalprotocol-hub" alt="GitHub Contribution Chart" />
+</p>
 
+---
+
+## ⭐ Top Skills
+- Data Cleaning & Analysis  
+- Dashboard Creation  
+- SEO Optimization  
+- Business Reporting  
+- Automation with Python  
+
+---
+
+⭐ If you like my work, consider giving my repositories a star!
